@@ -8,3 +8,7 @@ Spring project base case, which contains tests
 #### [Spring02](https://github.com/mathors/SSM-Study/tree/master/spring02)
 
 The way the spring containers are injected
+
+#### [Spring03](https://github.com/mathors/SSM-Study/tree/master/spring03)
+
+Simple sample applications for the Service layer and the Dao layer
