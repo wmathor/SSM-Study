@@ -13,5 +13,6 @@ The way the spring containers are injected
 
 Simple sample applications for the Service layer and the Dao layer
 
-#### [Spring01](https://github.com/mathors/SSM-Study/tree/master/mybatis01)
+#### [mybatis01](https://github.com/mathors/SSM-Study/tree/master/mybatis01)
 
+Mybatis implements simple CURD
