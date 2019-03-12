@@ -16,3 +16,7 @@ Simple sample applications for the Service layer and the Dao layer
 #### [mybatis01](https://github.com/mathors/SSM-Study/tree/master/mybatis01)
 
 Mybatis implements simple CURD
+
+#### [mybatis02](https://github.com/mathors/SSM-Study/tree/master/mybatis02)
+
+An example of the integration of mybatis and Spring, which is an important project code for beginners of SSM
