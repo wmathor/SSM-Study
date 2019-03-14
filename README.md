@@ -20,3 +20,7 @@ Mybatis implements simple CURD
 #### [mybatis02](https://github.com/mathors/SSM-Study/tree/master/mybatis02)
 
 An example of the integration of mybatis and Spring, which is an important project code for beginners of SSM
+
+#### [mybatis03](https://github.com/mathors/SSM-Study/tree/master/mybatis03)
+
+Annotation based mapper, including instances of multi-table operations
