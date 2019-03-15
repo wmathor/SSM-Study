@@ -24,3 +24,7 @@ An example of the integration of mybatis and Spring, which is an important proje
 #### [mybatis03](https://github.com/mathors/SSM-Study/tree/master/mybatis03)
 
 Annotation based mapper, including instances of multi-table operations
+
+#### [mybatis04](https://github.com/mathors/SSM-Study/tree/master/mybatis04)
+
+Mybatis instance code that involves multi-table federated queries and more complex USES
