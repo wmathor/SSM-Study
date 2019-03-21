@@ -29,6 +29,10 @@ Annotation based mapper, including instances of multi-table operations
 
 Mybatis instance code that involves multi-table federated queries and more complex USES
 
-#### [mybatis04](https://github.com/mathors/SSM-Study/tree/master/springmvc01)
+#### [springmvc01](https://github.com/mathors/SSM-Study/tree/master/springmvc01)
 
 Develop an example of a WEb project using the SpringMVC pattern
+
+#### [springmvc02](https://github.com/mathors/SSM-Study/tree/master/springmvc02)
+
+Annotation-based springmvc instance
