@@ -36,3 +36,7 @@ Develop an example of a WEb project using the SpringMVC pattern
 #### [springmvc02](https://github.com/mathors/SSM-Study/tree/master/springmvc02)
 
 Annotation-based springmvc instance
+
+#### [springmvc03](https://github.com/mathors/SSM-Study/tree/master/springmvc03)
+
+Common SpringMVC annotations instance
