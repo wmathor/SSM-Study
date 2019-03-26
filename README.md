@@ -40,3 +40,7 @@ Annotation-based springmvc instance
 #### [springmvc03](https://github.com/mathors/SSM-Study/tree/master/springmvc03)
 
 Common SpringMVC annotations instance
+
+#### [supervision](https://github.com/mathors/SSM-Study/tree/master/supervision)
+
+A simple management system based on SSM
