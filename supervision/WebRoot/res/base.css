@@ -1,0 +1,15 @@
+a{
+	text-decoration: none !important;
+}
+.layui-header .layui-nav-child a{
+	padding-top: 8px !important;
+	padding-bottom: 8px !important;
+}
+.layui-header .layui-logo,
+.layui-header.layui-bg-blue .layui-nav-item > a{
+	color: #FFF;
+}
+
+.container-fluid > .breadcrumb{
+	margin-top: 15px;
+}
